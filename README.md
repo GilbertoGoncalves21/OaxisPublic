@@ -2,7 +2,7 @@
 
 O **Oaxis** é uma plataforma SaaS de **Gestão ESG (Environmental, Social & Governance)** com arquitetura **multi-tenant**, focada em facilitar a governança, a gestão documental e o acompanhamento de indicadores ambientais e sociais em empresas de diferentes portes.
 
-> **Status do projeto:** Em desenvolvimento ativo desde **abril/2025** (versão pré-alpha).
+> **Status do projeto:** Em desenvolvimento ativo desde **junho/2025** (versão pré-alpha).
 
 ---
 
